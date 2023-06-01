@@ -1,3 +1,28 @@
 {
-  "dependencies": {}
+  "dependencies": {},
+  "name": "radix-mv-ui",
+  "version": "1.0.0",
+  "description": "Modal de filtro",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonardoferreira-dev/radix-mv-ui.git"
+  },
+  "keywords": [
+    "[\"react\"",
+    "\"component\"",
+    "\"ui\"",
+    "\"modal\"",
+    "\"filter\"]"
+  ],
+  "author": "Leonardo Ferreira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leonardoferreira-dev/radix-mv-ui/issues"
+  },
+  "homepage": "https://github.com/leonardoferreira-dev/radix-mv-ui#readme"
 }
